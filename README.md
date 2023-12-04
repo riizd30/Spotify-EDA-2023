@@ -21,11 +21,11 @@
 3. The Correlation between Stream, Spotify Playlist and Spotify Charts
    ![image](https://github.com/riizd30/Spotify-EDA-2023/assets/150936052/ffbb3c2c-f343-4e8c-bf23-f82876d77472)
 
-The insights for correlations :
-   * The correlation between "streams" and "in_spotify_playlists" is 0.837, indicating a strong positive correlation. This implies that songs with higher streaming numbers are likely to be included more frequently in Spotify playlists.
-   * The correlation between "streams" and "in_spotify_charts" is 0.765, indicating a strong positive correlation. This implies that songs with higher streaming numbers are also likely to perform well in the overall Spotify charts.
+   The insights for correlations :
+      * The correlation between "streams" and "in_spotify_playlists" is 0.837, indicating a strong positive correlation. This implies that songs with higher streaming numbers are likely to be included more frequently in Spotify playlists.
+      * The correlation between "streams" and "in_spotify_charts" is 0.765, indicating a strong positive correlation. This implies that songs with higher streaming numbers are also likely to perform well in the overall Spotify charts.
 4. linear regression model fit about Streams and Spotify Charts
    ![image](https://github.com/riizd30/Spotify-EDA-2023/assets/150936052/3ab0033b-8274-415a-97f6-d9516d128e1d)
 
-**Positive Trend** :
-If the regression line has a positive slope, A positive slope for the regression line indicates a positive connection between "streams" and "in_spotify_charts." This implies that there is a tendency for the presence on Spotify charts to increase with the number of streams.
+   **Positive Trend** :
+   If the regression line has a positive slope, A positive slope for the regression line indicates a positive connection   between "streams" and "in_spotify_charts." This implies that there is a tendency for the presence on Spotify charts to increase with the number of streams.
