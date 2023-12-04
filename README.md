@@ -31,6 +31,18 @@
    If the regression line has a positive slope, A positive slope for the regression line indicates a positive connection   between "streams" and "in_spotify_charts." This implies that there is a tendency for the presence on Spotify charts to increase with the number of streams.
 5. Total of Song That Are Released In 2020 - 2023
    ![image](https://github.com/riizd30/Spotify-EDA-2023/assets/150936052/f36a110d-ae42-4651-ab87-eb8d413bae37)
-   The bar graph shows:
+
+The bar graph shows:
       * the total number of song releases from 2020 to 2023. There were 37 songs released in 2020, 119 songs released in 2021, 175 songs released in 2022, and 402 songs released in 2023.
       * Overall, the number of song releases has increased each year since 2020. The biggest increase was between 2022 and 2023, with 227 more songs released in 2023.
+6.  The distribution and preferences of music features on 2020 - 2023
+![image](https://github.com/riizd30/Spotify-EDA-2023/assets/150936052/553d299b-a40d-4258-83ca-09c5b01c22c0)
+
+It shows the distribution and preferences of music features. Here's a breakdown released from 2020 until 2023 :
+* Danceability: 28.3% that all song has vibe and sounds that are suitable for dance.
+* Energy: 26.6% of the song has high energy to boost the mood with the tempo and rhythm
+* Valence:21.6% of the songs are positive and happy, as indicated by the valence data. This suggests that happy and upbeat * music is generally preferred.
+* acousticness: 10.9%
+* liveness:7.6%
+* speechiness:4.5%
+* instrumentalness:0.5%olume.
