@@ -42,7 +42,8 @@
    It shows the distribution and preferences of music features. Here's a breakdown released from 2020 until 2023 :
       * Danceability: 28.3% that all song has vibe and sounds that are suitable for dance.
       * Energy: 26.6% of the song has high energy to boost the mood with the tempo and rhythm
-      * Valence:21.6% of the songs are positive and happy, as indicated by the valence data. This suggests that happy and upbeat * music is generally preferred.
+      * Valence:21.6% of the songs are positive and happy, as indicated by the valence data. This suggests that happy and upbeat
+      * music is generally preferred.
       * acousticness: 10.9%
       * liveness:7.6%
       * speechiness:4.5%
