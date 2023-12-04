@@ -14,5 +14,12 @@
 
 ## Analysis Result 
 
-1. The Most Popular Song Streamed on Spotify Platform Between 2020 untill 2023?
+1. The Most Popular Song Streamed on Spotify Platform Between 2020 untill 2023
    ![image](https://github.com/riizd30/Spotify-EDA-2023/assets/150936052/75626d13-21ad-4cc8-b4b4-aa51f5cd1b80)
+2. Total Stream By Released_year from 2020 Untill 2023
+   ![image](https://github.com/riizd30/Spotify-EDA-2023/assets/150936052/5966ee79-a12c-4a85-a611-a39b68cec1b0)
+3. The Correlation between Stream, Spotify Playlist and Spotify Charts
+   ![image](https://github.com/riizd30/Spotify-EDA-2023/assets/150936052/ffbb3c2c-f343-4e8c-bf23-f82876d77472)
+   The insights for correlations :
+   * The correlation between "streams" and "in_spotify_playlists" is 0.837, indicating a strong positive correlation. This implies that songs with higher streaming numbers are likely to be included more frequently in Spotify playlists.
+   * The correlation between "streams" and "in_spotify_charts" is 0.765, indicating a strong positive correlation. This implies that songs with higher streaming numbers are also likely to perform well in the overall Spotify charts.
